@@ -1,0 +1,11 @@
+D:\Code Projects\ScraperTest2\ScraperTest2\bin\Debug\netcoreapp2.0\ScraperTest2.deps.json
+D:\Code Projects\ScraperTest2\ScraperTest2\bin\Debug\netcoreapp2.0\ScraperTest2.runtimeconfig.json
+D:\Code Projects\ScraperTest2\ScraperTest2\bin\Debug\netcoreapp2.0\ScraperTest2.runtimeconfig.dev.json
+D:\Code Projects\ScraperTest2\ScraperTest2\bin\Debug\netcoreapp2.0\ScraperTest2.dll
+D:\Code Projects\ScraperTest2\ScraperTest2\obj\Debug\netcoreapp2.0\ScraperTest2.csproj.CoreCompileInputs.cache
+D:\Code Projects\ScraperTest2\ScraperTest2\obj\Debug\netcoreapp2.0\ScraperTest2.AssemblyInfoInputs.cache
+D:\Code Projects\ScraperTest2\ScraperTest2\obj\Debug\netcoreapp2.0\ScraperTest2.AssemblyInfo.cs
+D:\Code Projects\ScraperTest2\ScraperTest2\obj\Debug\netcoreapp2.0\ScraperTest2.csprojResolveAssemblyReference.cache
+D:\Code Projects\ScraperTest2\ScraperTest2\bin\Debug\netcoreapp2.0\ScraperTest2.pdb
+D:\Code Projects\ScraperTest2\ScraperTest2\obj\Debug\netcoreapp2.0\ScraperTest2.dll
+D:\Code Projects\ScraperTest2\ScraperTest2\obj\Debug\netcoreapp2.0\ScraperTest2.pdb
